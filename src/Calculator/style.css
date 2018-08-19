@@ -1,0 +1,22 @@
+.Calculator {
+  padding-top: 1em;
+}
+
+.Calculator-label {
+  width: 8em;
+  display: inline-block;
+}
+
+.Calculator-input {
+  background-color: #ffffff;
+  border: solid 1px #a9a9a9;
+  font-size: 1em;
+  color: #000000;
+  border-radius: 0px;
+  padding: 0.5em;
+  width: 4em;
+}
+
+.Calculator-value {
+  padding-bottom: 1em;
+}
